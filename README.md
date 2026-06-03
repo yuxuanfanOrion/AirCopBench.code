@@ -5,11 +5,14 @@ The benchmark is designed to evaluate whether Multimodal Large Language Models (
 - **Paper**: https://arxiv.org/pdf/2511.11025
 - **Project**: https://embodiedcity.github.io/AirCopBench/
 - **Dataset**: https://huggingface.co/datasets/EasonFan/AirCopBench/tree/main
+- **Fine-tuned Models**: [aircop-7b (Qwen2.5-VL-7B)](https://huggingface.co/EasonFan/aircop-7b) and [aircop-8b (Qwen3-VL-8B)](https://huggingface.co/EasonFan/aircop-8b)
 
 ---
 
 ## News
 - 🎉 Our paper has been accepted by AAAI 2026!
+- 🔧 Updated the dataset to fix some errors in the data
+- 🤖 Released fine-tuned models: [aircop-7b](https://huggingface.co/EasonFan/aircop-7b) and [aircop-8b](https://huggingface.co/EasonFan/aircop-8b)
 - ✅ All datasets, code, and supplementary material released
 - ✅ Unified question generation pipeline for 14 tasks
 - ✅ One-click integration script for interactive VQA generation
